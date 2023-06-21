@@ -11,3 +11,6 @@
 - 😄 Pronouns: some cool stuff
 - ⚡ Fun fact: some cool stuff
 --> some cool stuff
+
+Languages and Tools:
+azure bash docker gcp grafana jenkins kubernetes mssql python redis vagrant
