@@ -10,6 +10,6 @@
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My career was a result of coincidence
---> some cool stuff
+
 
 
