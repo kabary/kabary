@@ -9,7 +9,7 @@
 - 💬 Ask me about my favorite brands/music
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My career was a result of coincidence
+- ⚡ Fun fact: My career was a result of a beautiful coincidence
 
 
 
